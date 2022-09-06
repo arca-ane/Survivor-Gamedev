@@ -2,11 +2,15 @@
 
 
 Game Name : SURVIVOR
+
 Team : GlitchCamp
+
 Made as a part of a project under GameDev, IITK
 
 Tools: Unity, Blender,Photoshop
+
 Platform: Windows/PC
+
 itch.io : https://siddharth-garg.itch.io/survivor
 
 Setting: 
